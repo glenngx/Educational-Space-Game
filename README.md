@@ -37,7 +37,7 @@ Space Boy is an educational game that takes players on an adventure through the 
    git clone https://github.com/glenngx/Space-Boy.git
    ```
 2. Ensure you have Java JDK 8+ and Gradle installed
-3. Import the project into your preferred IDE (IntelliJ IDEA, Eclipse, or Android Studio)
+3. Import the project into your preferred IDE (IntelliJ IDEA or Eclipse)
 4. Run the desktop launcher:
    ```
    ./gradlew desktop:run
