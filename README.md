@@ -1,7 +1,7 @@
 # Space Boy
 
 ## Overview
-Space Boy is an educational game that takes players on an adventure through the solar system. Players are tasked with navigating through various planets, dodging asteroids and surviving the challenges of each planet while learning fun facts about space. Built with LibGDX, this Java-based game employs object-oriented principles to create an engaging planetary exploration experience.
+Space Boy is an educational game built with Java and LibGDX that takes players on an adventure through the solar system. Players are tasked with exploring space, navigating through various planets and surviving various challenges unique to each planet.
 
 ## Features
 - **Planetary Exploration**: Multiple levels based on different planets in the solar system
