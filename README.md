@@ -34,7 +34,7 @@ Space Boy is an educational game built with Java and LibGDX that takes players o
 ## Installation
 1. Clone the repository:
    ```
-   git clone https://github.com/glenngx/Space-Boy.git
+   git clone https://github.com/glenngx/Educational-Space-Game.git
    ```
 2. Ensure you have Java JDK 8+ and Gradle installed
 3. Import the project into your preferred IDE (IntelliJ IDEA or Eclipse)
